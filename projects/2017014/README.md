@@ -19,6 +19,11 @@ Github προφίλ: https://github.com/katevamv
 4. social media (https://katevamv.github.io/gr/gallery/social-media/)
 5. virtual reality (https://katevamv.github.io/gr/gallery/virtual-reality/)
 
+#### Παραδοτέο Γ
+
+Βιογραφία: Alan Turing (https://katevamv.github.io/gr/biography/alan-turing/)
+
+
 ### Εργασία Ανάπτυξης
 
 #### Παραδοτέο 1
